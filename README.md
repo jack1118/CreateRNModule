@@ -1,17 +1,17 @@
-# react-native-awesome-module
+# @react-native-mdt/awesome-module
 
-module sample
+create react native module sample
 
 ## Installation
 
 ```sh
-npm install react-native-awesome-module
+npm install @react-native-mdt/awesome-module
 ```
 
 ## Usage
 
 ```js
-import { multiply } from "react-native-awesome-module";
+import { multiply } from "@react-native-mdt/awesome-module";
 
 // ...
 
@@ -24,4 +24,4 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License
 
-MIT
+MDT
