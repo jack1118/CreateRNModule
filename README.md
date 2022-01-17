@@ -1,11 +1,11 @@
 # @react-native-mdt/awesome-module
 
-create react native module sample
+a sample of react native module
 
 ## Installation
 
 ```sh
-npm install @react-native-mdt/awesome-module
+yarn add @react-native-mdt/awesome-module
 ```
 
 ## Usage
@@ -24,4 +24,4 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License
 
-MDT
+MDT (MobileDriveTech)
