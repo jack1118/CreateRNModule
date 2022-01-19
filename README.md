@@ -7,8 +7,17 @@ a sample of react native module
 ```sh
 yarn add @react-native-mdt/awesome-module
 ```
+## How to Run the Example
 
-## Usage
+```bash
+CreateRNModule> yarn example
+```
+
+```sh
+CreateRNModule> yarn example android
+```
+
+## Module Usage
 
 ```js
 import {add, minus, multiply, divide} from "@react-native-mdt/awesome-module";
@@ -30,7 +39,7 @@ CreateRNModule> yarn
 ```
 
 ```bash
-CreateRNModule\example> yarn
+CreateRNModule> yarn example android
 ```
 
 ## Contributing
